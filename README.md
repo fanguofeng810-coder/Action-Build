@@ -6,7 +6,7 @@
  
 # Action-Build
 **```Build All OnePlus Devices SukiSU Ultra Kernel```**
->更高效 更全面 更快速 更稳定
+>更高效 更全面 更快速 更稳 定
  
 <details>
 <summary><strong>点击查看如何fork项目</strong></summary>
